@@ -5,6 +5,6 @@
 
 <tt>modulo - 3 Seleção de Modelos de Aprendizado de Máquina</tt>
 
-<tt>modulo - 4 Metodologias de Aprendizado</tt>
+<tt>modulo - 4 Metodologias de Aprendizado de Máquina</tt>
 
-<tt>modulo - desafio</tt>
+<tt>modulo - Desafio</tt>
